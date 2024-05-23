@@ -1,3 +1,4 @@
+import React from 'react'
 import './globals.scss'
 import { Montserrat, Rubik } from 'next/font/google'
 import clsx from 'clsx'
